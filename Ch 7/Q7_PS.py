@@ -1,0 +1,6 @@
+n=int(input("Enter a number:"))
+print(n*"*")
+print("*"*1,end="")
+print(" "*(n-2),end="")
+print("*"*1)
+print(n*"*")
