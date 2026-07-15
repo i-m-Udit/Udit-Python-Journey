@@ -1,0 +1,1 @@
+#in this using pip freeze will return all installations with versions.
